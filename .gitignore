@@ -29,3 +29,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Isda/Temp/UnityLockfile
+Isda/Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.log
